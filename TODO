@@ -1,0 +1,2 @@
+Fix:
+  - Its able to action as load on addEventListener.
